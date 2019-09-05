@@ -3,12 +3,25 @@ title: Luxury furs
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Woody’s Furs?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Woody’s Furs offers a large variety in Fur, Leather, Cashmeres, Shearling,
+    Vests, Hats and Accessories.
+
+    I take pride in searching all over the world for trends within our industry
+    so I can offer our customers the cutting edge of fashion and style.
+
+
+    A warm and friendly atmosphere, pampering our customers, these are all the
+    trademarks of Woody’s Furs.
+
+
+    Customers can always expect a gracious smile when shopping at Woody’s Furs.
+
+
+    My intentions and desires is to make our furs as affordable as possible
+    while maintaining the high level of quality and selection that Woody’s Furs
+    has come to be known for.
 intro:
   heading: What we offer
   text: >-
