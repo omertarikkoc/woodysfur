@@ -1,7 +1,7 @@
 ---
-title: Luxury furs
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Luxury Furs in Houston
+subtitle: We take pride in searching all over the world for trends
+image: /img/dsc07508-resized.jpg
 blurb:
   heading: Why Woody’s Furs?
   text: >-
