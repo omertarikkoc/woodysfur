@@ -5,6 +5,7 @@
 - Update Services Page
 - Add Dynamic Store Hours and Address
 - Fix Navigation https://codepen.io/youfoundron/pen/eWpxzY
+- ? Update font and color 
 
 # Hugo template for Netlify CMS with Netlify Identity
 
