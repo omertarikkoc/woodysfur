@@ -1,11 +1,11 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/logo-small.png"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: "2050 Post Oak Blvd, Houston, TX 77056"
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Monday – Saturday: 10:00 AM to 6:00 PM, Sunday 12:00 PM to 6:00 PM"
 ---
 
 We’d love to get in touch with you and hear your ideas and
@@ -14,6 +14,4 @@ is valuable for us.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+If you would like to request information on any of our product or service, feel free to fill out the form below and we will get back to you as soon as possible.
