@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<div class="flex-ns">
+    <div class="w-50-ns">
+        {{ if .Params.image }}
+        {{ range .Params.image }}
+        <img src="{{ . }}" />
+        {{ end }}
+        {{ end }}
+        {{ .Content }}
+    </div>
+    <div class="w-50-ns ph3 pv4">
+        <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+        {{ with .Params.price}}<h3 class="f4 lh-title b mb3"></h3> {{ end }}
+        <div class="flex justify-between grey-3">
+        </div>
+        <div class="cms mw6">
+            <p>{{ .Description }}</p>
+
+        </div>
+    </div>
+
+</div>
+{{ end }}

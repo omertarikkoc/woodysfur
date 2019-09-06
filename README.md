@@ -1,8 +1,6 @@
 # TODO
 - Implement Products such as Posts
-- Update Homepage 
 - Update Contact Page
-- Update Services Page
 - Add Dynamic Store Hours and Address
 - Implement Netlify Forms
 - Fix Navigation https://codepen.io/youfoundron/pen/eWpxzY

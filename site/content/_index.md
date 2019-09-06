@@ -46,14 +46,6 @@ products:
 values:
   heading: Our services
   text: >-
-    Woody’s Furs offers a large variety inFur, Leather, Cashmeres, Shearling,
-    Vests, Hats and Accessories.
-
-
-    I take pride in searching all over the world for trends within our industry
-    so I can offer our customers the cutting edge of fashion and style.
-
-
     A warm and friendly atmosphere, pampering our customers, these are all the
     trademarks of Woody’s Furs.
 

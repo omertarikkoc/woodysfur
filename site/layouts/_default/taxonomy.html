@@ -1,0 +1,16 @@
+{{ define "main" }}
+<main>
+    <div>
+        <!-- ranges through each of the content files associated with a particular taxonomy term and renders the summary.html content view -->
+        <h1 class="f1 b lh-title mb3 tc mt 3">{{ .Title }}</h2>
+            <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+                {{ range .Pages }}
+                <div class="ph1-ns w-25-ns flex">
+                    {{ .Render "pli" }}
+                </div>
+                {{ end }}
+            </div>
+
+    </div>
+</main>
+{{ end }}
