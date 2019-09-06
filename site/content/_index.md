@@ -44,11 +44,23 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
+  heading: Our services
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Woody’s Furs offers a large variety inFur, Leather, Cashmeres, Shearling,
+    Vests, Hats and Accessories.
+
+
+    I take pride in searching all over the world for trends within our industry
+    so I can offer our customers the cutting edge of fashion and style.
+
+
+    A warm and friendly atmosphere, pampering our customers, these are all the
+    trademarks of Woody’s Furs.
+
+
+    Customers can always expect a gracious smile when shopping at Woody’s Furs.
+    My intentions and desires is to make our furs as affordable as possible
+    while maintaining the high level of quality and selection that Woody’s Furs
+    has come to be known for.
 ---
 
