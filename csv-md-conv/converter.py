@@ -67,6 +67,7 @@ def create_files(md_templates):
     return counter
 
 
+# Main Driver
 csv_data = read_csv("product_data.csv")
 md_temps = process_csv_rows(csv_data)
 create_files(md_temps)
