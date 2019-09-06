@@ -70,12 +70,14 @@
 	const closeMenu = () => {
 		console.log('close menu')
 		menu.className = menu.className.replace('left-50', 'left-100')
+		menu.style.display = 'none'
 		menuBtn.innerHTML = 'Menu'
 		menuIsOpen = false
 	}
 
 	const openMenu = () => {
 		console.log('open menu')
+		menu.style.display = 'block'
 		menu.className = menu.className.replace('left-100', 'left-50')
 		menuBtn.innerHTML = 'Close'
 		menuIsOpen = true
