@@ -3,24 +3,16 @@
 	<div class="mw7 center pt3">
 
 		<div class="flex-ns justify-between">
-
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">WOODY’S FURS</h3>
-				<p class="mb3">
-					2050 Post Oak Blvd, <br>
-					Houston, TX 77056 <br>
-					sales@woodysfurs.com</p>
-			</div>
-
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">STORE HOURS</h3>
-				<p class="mb3">
-					<strong>Monday thru Saturday</strong> <br>
-					10:00 AM to 6:00 PM, <br>
-					<strong>Sunday</strong> <br>
-					12:00 PM to 6:00 PM <br>
-				</p>
-			</div>
+			{{ range where .Site.Sections "Title" "Contact"}}
+				{{ range .Params.contact_entries }}
+				<div>
+					<h3 class="f4 b lh-title mb1 primary">{{ .heading }}</h3>
+					<p class="mb3">
+						{{ .text }}
+					</p>
+				</div>
+				{{ end }}
+			{{ end }}
 
 			<div>
 				<h3 class="f4 b lh-title mb2 primary">INQUIRIES?</h3>
@@ -32,12 +24,7 @@
 
 					sales@woodysfurs.com
 				</p>
-				<h3 class="f4 b lh-title mb2 primary">SOCIAL MEDIA</h3>
-				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "https://www.facebook.com/Woodysfurs1" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "https://twitter.com/WoodysFurs" "svg" "icons-twitter") }}
-					{{ partial "social-icon" (dict "link" "https://www.instagram.com/woodysfurs/" "svg" "icons-instagram") }}
-				</ul>
+				
 			</div>
 
 		</div>
