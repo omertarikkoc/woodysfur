@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: "2050 Post Oak Blvd, Houston, TX 77056"
   - heading: Working hours
-    text: "Monday – Saturday: 10:00 AM to 6:00 PM, Sunday 12:00 PM to 6:00 PM"
+    text: "Monday – Saturday: 10:00 AM to 6:00 PM, Sunday: Closed"
 ---
 
 We’d love to get in touch with you and hear your ideas and
