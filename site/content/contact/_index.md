@@ -1,11 +1,11 @@
 ---
-title: "Contact"
-logo: "/img/logo-small.png"
+title: Contact
+logo: /img/logo-small.png
 contact_entries:
   - heading: Location
-    text: "2050 Post Oak Blvd, Houston, TX 77056"
+    text: '2050 Post Oak Blvd, Houston, TX 77056'
   - heading: Working hours
-    text: "Monday – Saturday: 10:00 AM to 6:00 PM, Sunday: Closed"
+    text: 'Monday – Saturday: 10 AM to 7 PM, Sunday: 12 PM to 6 PM'
 ---
 
 We’d love to get in touch with you and hear your ideas and
