@@ -13,7 +13,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "markdown"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "ImageGallery", name: "image", widget: "list", field: {label: Image, name: image, widget: image}}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
