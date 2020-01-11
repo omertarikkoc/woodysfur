@@ -3,9 +3,9 @@
 <div class="flex-ns">
     <div class="w-50-ns">
         {{ if .Params.image }}
-        {{ range .Params.image }}
-        <img src="{{ . }}" />
-        {{ end }}
+            {{ range .Params.image }}
+                <img src="{{ . }}" />
+            {{ end }}
         {{ end }}
         {{ .Content }}
     </div>
