@@ -14,7 +14,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Categories", name: "categories", widget: "select", options: ["furs", "jackets"], default: "furs"}
+      - {label: "Categories", name: "categories", widget: "select", options: ["Jacket", "Accessories", "Coat", "Vests", "Capes", "Hats", "T-Shirt", "Kids"], default: "Jacket"}
       - {label: "Description", name: "description", widget: "markdown", required: true}
       - {label: "ImageGallery", name: "image", widget: "list", field: {label: Image, name: image, widget: image}, required: true}
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
