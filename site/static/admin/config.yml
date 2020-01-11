@@ -12,10 +12,9 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Categories", name: "categories", widget: "list", default: ["furs"]}
-      - {label: "Description", name: "description", widget: "markdown"}
-      - {label: "ImageGallery", name: "image", widget: "list", field: {label: Image, name: image, widget: image}}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Categories", name: "categories", widget: "select", options: ["furs", "jackets"], default: "furs"}
+      - {label: "Description", name: "description", widget: "markdown", required: true}
+      - {label: "ImageGallery", name: "image", widget: "list", field: {label: Image, name: image, widget: image}, required: true}
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
