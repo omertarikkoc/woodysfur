@@ -7,9 +7,7 @@ contact_entries:
       2050 Post Oak Blvd,
       Houston, TX 77056
   - heading: Working hours
-    text: |-
-      Monday – Saturday: 10 AM to 7 PM, 
-      Sunday: 12 PM to 6 PM
+    text: 'Monday – Sunday: 10 AM to 2 PM '
 ---
 
 We’d love to get in touch with you and hear your ideas and
