@@ -1,6 +1,8 @@
 ---
-title: Luxury Furs in Houston
-subtitle: We take pride in searching all over the world for trends
+title: >-
+  Luxury Furs in Houston:We take pride in searching all over the world for
+  trends
+subtitle: ' We are offering curb side pick-up if you choose not to come in the store. We hope everyone is doing well and please stay safe.'
 image: /img/dsc07508-resized.jpg
 values:
   heading: 'Dear Valued Customers:'
@@ -12,6 +14,8 @@ values:
     We are offering curb side pick-up if you choose not to come in the store.
 
     We hope everyone is doing well and please stay safe.
+
+
 
 
 
