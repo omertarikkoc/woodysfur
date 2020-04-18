@@ -2,50 +2,23 @@
 title: Luxury Furs in Houston
 subtitle: We take pride in searching all over the world for trends
 image: /img/dsc07508-resized.jpg
-blurb:
-  heading: Why Woody’s Furs?
-  text: >-
-    Woody’s Furs offers a large variety in Fur, Leather, Cashmeres, Shearling,
-    Vests, Hats and Accessories.
-
-    I take pride in searching all over the world for trends within our industry
-    so I can offer our customers the cutting edge of fashion and style.
-
-
-    A warm and friendly atmosphere, pampering our customers, these are all the
-    trademarks of Woody’s Furs.
-
-
-    Customers can always expect a gracious smile when shopping at Woody’s Furs.
-
-
-    My intentions and desires is to make our furs as affordable as possible
-    while maintaining the high level of quality and selection that Woody’s Furs
-    has come to be known for.
-intro:
-  heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
-products:
-  - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
 values:
-  heading: Our services
+  heading: 'Dear Valued Customers:'
   text: >-
+
+    Due to the current situation, Woody’s Furs is open Monday through Saturday
+    from 10:00 AM to 4:00 PM.
+
+    We are offering curb side pick-up if you choose not to come in the store.
+
+    We hope everyone is doing well and please stay safe.
+
+
+
+
+
+    Our services
+
     A warm and friendly atmosphere, pampering our customers, these are all the
     trademarks of Woody’s Furs.
 
