@@ -8,7 +8,8 @@ contact_entries:
       Houston, TX 77056
   - heading: Working hours
     text: |-
-      Monday – Saturday: 10 AM to 2 PM 
+      Monday – Saturday: 10:00 AM to 6:00 PM 
+
       Sunday: Closed
 ---
 
