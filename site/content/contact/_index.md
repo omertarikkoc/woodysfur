@@ -10,8 +10,6 @@ contact_entries:
     text: |-
       Monday – Friday: 10:00 AM to 5:00 PM 
       Saturday:By Appointment only.
-
-
       Sunday: Closed
 ---
 
