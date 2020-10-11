@@ -1,11 +1,6 @@
 ---
 title: Luxury Furs in Houston
-subtitle: >-
-  Dear Valued Customers: Due to the current situation, Woody’s Furs is open
-  Monday through Friday during the month of September 2020 from 10:00 AM to 5:00
-  PM; Saturday by Appointment only; Sunday closed.  We are offering curbside
-  storage pick-up if you choose not to come in the store. We hope everyone is
-  doing well and please stay safe.
+subtitle: .
 image: /img/dsc07508-resized.jpg
 values:
   heading: 'Our services: We take pride in searching all over the world for trends'
