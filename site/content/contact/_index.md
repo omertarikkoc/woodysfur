@@ -11,7 +11,7 @@ contact_entries:
       Monday – Saturday : 10:00 AM to 6:00
       PM                                     
 
-      Sunday: 11:00 AM to 6:00 PM
+      Sunday: By Appointment Only.
 ---
 
 We’d love to get in touch with you and hear your ideas and
